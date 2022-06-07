@@ -1,0 +1,459 @@
+# Confidential information has been removed
+
+start_time: "2020-03-01T00:00:00Z"
+limit_time: "2021-12-31T23:59:59Z"
+start_timestamp: 1583020800
+limit_timestamp: 1640995199
+
+project_acronym: ...
+parent_group: 3155
+
+technologies:
+- python
+- terraform
+- cloudformation
+- arm
+- docker
+- vue.js
+- typescript
+- dynamodb
+
+platforms:
+- aws
+- azure
+
+aws_accounts:
+  111111111111:
+    name: development
+    region: eu-central-1
+  222222222222:
+    name: production
+    region: eu-central-1
+
+user_alias:
+  name@example.com: ...
+
+log_groups:
+- ...
+- ...
+
+project_mappings:
+  4304:
+    log_groups: []
+    name: ...
+    platforms: []
+    technologies: []
+  4348:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [cloudformation]
+  4412:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  4413:
+    log_groups: []
+    name: ...
+    platforms: []
+    technologies: [docker]
+  4928:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  5044:
+    log_groups: []
+    name: ...
+    platforms: []
+    technologies: [docker]
+  5049:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [cloudformation]
+  5283:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  5403:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  5441:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [docker]
+  5444:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  5452:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  5455:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [cloudformation]
+  5464:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  5527:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  5537:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  5540:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  5584:
+    log_groups: []
+    name: ...
+    platforms: [aws, azure]
+    technologies: [python]
+  5585:
+    log_groups: []
+    name: ...
+    platforms: [aws, azure]
+    technologies: [python]
+  5646:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  5660:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  5681:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [cloudformation]
+  5789:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  5791:
+    log_groups: []
+    name: ...
+    platforms: [azure]
+    technologies: [arm]
+  5879:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  5922:
+    log_groups: []
+    name: ...
+    platforms: [aws, azure]
+    technologies: [python]
+  5923:
+    log_groups: []
+    name: ...
+    platforms: []
+    technologies: [typescript, vue.js]
+  5944:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  5962:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  6474:
+    log_groups: []
+    name: ...
+    platforms: [aws, azure]
+    technologies: [typescript]
+  6667:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  6758:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  6771:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  6850:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  6996:
+    log_groups: []
+    name: ...
+    platforms: [azure]
+    technologies: [python]
+  7008:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  7011:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  7012:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  7236:
+    log_groups: []
+    name: ...
+    platforms: []
+    technologies: [python]
+  7292:
+    log_groups: []
+    name: ...
+    platforms: [azure]
+    technologies: [python]
+  7294:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  7307:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  7396:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  7397:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  7418:
+    log_groups: []
+    name: ...
+    platforms: []
+    technologies: []
+  7447:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  7449:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  7472:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [dynamodb, terraform]
+  7500:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [cloudformation]
+  7548:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  7563:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [dynamodb, python]
+  7628:
+    log_groups: []
+    name: ...
+    platforms: []
+    technologies: [python]
+  7822:
+    log_groups: []
+    name: ...
+    platforms: [azure]
+    technologies: [python]
+  7833:
+    log_groups: []
+    name: ...
+    platforms: []
+    technologies: []
+  8091:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  8286:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  8741:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  8746:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  8926:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  9049:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  9053:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  9105:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [dynamodb, python]
+  9108:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  9196:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  9307:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  9706:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  9710:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  9711:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  9945:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [dynamodb, python]
+  10391:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [cloudformation]
+  10522:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [dynamodb, terraform]
+  11488:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  12216:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  12218:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  12239:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  12624:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [typescript]
+  12637:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [typescript]
+  13939:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+  13970:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  14397:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [terraform]
+  14720:
+    log_groups: []
+    name: ...
+    platforms: [azure]
+    technologies: [arm]
+  14789:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python, terraform]
+  14862:
+    log_groups: []
+    name: ...
+    platforms: [aws]
+    technologies: [python]
+
+log_group_mappings:
+  ..: 8286
+  ...: 8091
